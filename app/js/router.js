@@ -5,28 +5,28 @@ import { showLoader, hideLoader } from './utils/loader.js';
 
 const routes = {
   mainpage: {
-    html: '/Market/app/html/pages/mainpage.html',
-    script: '/Market/app/js/pages/mainpage.js',
+    html: './app/html/pages/mainpage.html',
+    script: './pages/mainpage.js',
     init: 'initMainPage',
   },
   items: {
-    html: '/Market/app/html/pages/items.html',
-    script: '/Market/app/js/pages/items.js',
+    html: './app/html/pages/items.html',
+    script: './pages/items.js',
     init: 'initItemsPage',
   },
   history: {
-    html: '/Market/app/html/pages/history.html',
-    script: '/Market/app/js/pages/history.js',
+    html: './app/html/pages/history.html',
+    script: './pages/history.js',
     init: 'loadHistoryCards',
   },
   basket: {
-    html: '/Market/app/html/pages/basket.html',
-    script: '/Market/app/js/pages/basket.js',
+    html: './app/html/pages/basket.html',
+    script: './app/js/pages/basket.js',
     init: null,
   },
   shop: {
-    html: '/Market/app/html/pages/shop.html',
-    script: '/Market/app/js/pages/shop.js',
+    html: './app/html/pages/shop.html',
+    script: './pages/shop.js',
     init: null,
   },
 };

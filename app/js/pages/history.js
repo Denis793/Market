@@ -6,7 +6,7 @@ export function loadHistoryCards() {
   setupFooter();
 
   waitForElement('.history-content', (container) => {
-    fetch('/Market/app/data/users.json')
+    fetch('./app/data/users.json')
       .then((response) => {
         if (!response.ok) throw new Error('Failed to fetch users.json');
         return response.json();
