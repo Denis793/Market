@@ -1,0 +1,106 @@
+@use './variables' as *;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--primary-font);
+  font-size: 10px;
+  color: var(--text-dark);
+  position: relative;
+}
+
+.container {
+  width: 90%;
+  max-width: 98rem;
+  margin: 0 auto;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+p {
+  font-size: var(--font-size-p);
+}
+
+a {
+  font-size: var(--font-size-a);
+  text-decoration: none;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+  font-family: var(--secondary-font);
+  color: var(--text-light);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+  text-align: center;
+  padding: var(--spacing-section) 0;
+  background: var(--background-light);
+
+  @media screen and (max-width: 768px) {
+    font-size: var(--font-size-h3);
+    padding: var(--spacing-medium) 0;
+  }
+}
+
+h3 {
+  font-size: var(--font-size-h3);
+}
+
+h4 {
+  font-size: var(--font-size-h4);
+}
+
+.icons-block {
+  display: flex;
+  gap: 1.2rem;
+}
+
+.icon {
+  width: var(--icon-size-small);
+  height: var(--icon-size-small);
+  filter: invert(1);
+}
+
+.header-icon {
+  filter: invert(0);
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-weight: bold;
+  padding: var(--spacing-small);
+  font-size: var(--font-size-a);
+  background: none;
+  transition: var(--transition);
+  color: var(--text-light);
+}
+
+button:hover {
+  box-shadow: 0 0 1rem #ccc;
+}
+
+.error-message {
+  color: var(--error-color);
+  font-size: var(--font-size-p);
+  text-align: center;
+  margin-top: var(--spacing-small);
+}
+
+.active {
+  display: none;
+  transition: var(--transition);
+}
+
+.hidden {
+  display: none;
+}

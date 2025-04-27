@@ -1,0 +1,38 @@
+:root {
+  // Colors
+  --primary-color: #ff6200;
+  --header-bg: #0000008a;
+  --text-dark: #333;
+  --text-medium: #666;
+  --text-light: #fff;
+  --background-light: #e4e4e4;
+  --background-dark: #1a1a1a;
+  --border-color: #919191;
+  --footer-link-color: #ccc;
+  --error-color: #ff0000;
+
+  // Fonts family
+  --primary-font: 'Montserrat', sans-serif;
+  --secondary-font: 'Playfair Display', serif;
+
+  // Font size
+  --font-size-h1: 4.8rem;
+  --font-size-h2: 3.2rem;
+  --font-size-h3: 1.6rem;
+  --font-size-h4: 1rem;
+  --font-size-p: 1.4rem;
+  --font-size-a: 1.2rem;
+
+  // Spacing
+  --spacing-small: 1rem;
+  --spacing-medium: 2rem;
+  --spacing-large: 3rem;
+  --spacing-xl: 8rem;
+  --spacing-section: 5rem;
+
+  // Other
+  --icon-size-small: 1.6rem;
+  --icon-size-large: 3rem;
+  --transition: all 0.3s ease;
+  --border-radius: 0.5rem;
+}

@@ -1,0 +1,145 @@
+.items {
+  display: flex;
+  padding: 2rem 0;
+
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.basket-sidebar {
+  width: 25rem;
+  padding: 2rem;
+  border-right: 1px solid #ddd;
+
+  @media screen and (max-width: 768px) {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+  }
+}
+
+.filter-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.filter-section h3 {
+  margin: var(--spacing-small) 0;
+
+  @media screen and (max-width: 768px) {
+    width: 100%;
+  }
+}
+
+#search-input {
+  width: 100%;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.range-input {
+  cursor: pointer;
+}
+
+.filter-button {
+  display: block;
+  width: 100%;
+  padding: 0.8rem;
+  border: none;
+  border-radius: var(--border-radius);
+  text-align: left;
+  background: transparent;
+  color: var(--text-dark);
+  &:hover {
+    background-color: var(--primary-color);
+    color: var(--text-light);
+  }
+
+  @media screen and (max-width: 768px) {
+    color: var(--primary-color);
+    width: 42%;
+    margin: 0.5rem;
+    border: 1px solid var(--primary-color);
+    text-align: center;
+    &:hover {
+      background-color: var(--primary-color);
+      color: var(--text-light);
+    }
+  }
+}
+
+.filter-button.active {
+  background-color: var(--primary-color);
+  color: var(--text-light);
+}
+
+#price-filter {
+  width: 100%;
+}
+
+.items-grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(48%, 1fr));
+  gap: 20px;
+  padding: 2rem;
+
+  @media screen and (max-width: 768px) {
+    padding: 0;
+    grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+  }
+}
+
+.item-card {
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+
+.item-card img {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+  box-shadow: 0 0 1rem #ccc;
+}
+
+.item-info {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item-info h4 {
+  font-size: var(--font-size-h4);
+  margin: 5px 0;
+}
+
+.item-info p {
+  font-size: 1rem;
+}
+
+.add-to-basket {
+  position: absolute;
+  background-color: var(--primary-color);
+  color: var(--text-light);
+  padding: 5px 10px;
+  border-radius: 5px;
+  line-height: 1.2rem;
+  top: 1rem;
+  right: 1rem;
+  width: 6rem;
+  height: 6rem;
+  font-size: 3rem;
+  &:hover {
+    background: var(--background-light);
+    color: var(--primary-color);
+  }
+}
+
+.add-to-basket span {
+  font-size: 1rem;
+}

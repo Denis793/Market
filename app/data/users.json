@@ -1,0 +1,82 @@
+[
+  {
+    "id": "animal-1",
+    "name": "Pet smile fox",
+    "likes": "&#10084; 2548",
+    "avatar": "./app/img/users/animal-1.png",
+    "price": 100,
+    "toggleId": "Forest",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  },
+  {
+    "id": "animal-2",
+    "name": "Red smile fox",
+    "likes": "&#10084; 4218",
+    "avatar": "./app/img/users/animal-2.png",
+    "price": 70,
+    "toggleId": "Forest",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  },
+  {
+    "id": "animal-3",
+    "name": "Arctic smile fox",
+    "likes": "&#10084; 3290",
+    "avatar": "./app/img/users/animal-3.png",
+    "price": 40,
+    "toggleId": "Foxkid",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  },
+  {
+    "id": "animal-4",
+    "name": "Arctic smile fox",
+    "likes": "&#10084; 3290",
+    "avatar": "./app/img/users/animal-4.png",
+    "price": 80,
+    "toggleId": "Foxkid",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  },
+  {
+    "id": "animal-5",
+    "name": "Kit smile fox",
+    "likes": "&#10084; 3221",
+    "avatar": "./app/img/users/animal-5.png",
+    "price": 50,
+    "toggleId": "Forest",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  },
+  {
+    "id": "animal-6",
+    "name": "Fennec smile fox",
+    "likes": "&#10084; 3237",
+    "avatar": "./app/img/users/animal-6.png",
+    "price": 80,
+    "toggleId": "Foxkid",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  },
+  {
+    "id": "animal-7",
+    "name": "Arctic smile fox",
+    "likes": "&#10084; 5110",
+    "avatar": "./app/img/users/animal-7.png",
+    "price": 70,
+    "toggleId": "Forest",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  },
+  {
+    "id": "animal-8",
+    "name": "Red smile fox",
+    "likes": "&#10084; 1291",
+    "avatar": "./app/img/users/animal-8.png",
+    "price": 80,
+    "toggleId": "Other",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis voluptates architecto odio placeat saepe, repudiandae omnis dolore quibusdam, ipsum laudantium assumenda ratione vel beatae perferendis ea id earum fuga aperiam! Cupiditate aspernatur incidunt tenetur. Tenetur maiores fuga laborum at pariatur hic voluptates illum vitae repellat sapiente, nesciunt quae debitis aspernatur dolorem error alias corporis consequuntur, ipsa illo reiciendis vel autem inventore nisi dolore. Esse nemo, voluptas minus repellendus optio autem maxime harum debitis accusantium nam vero qui blanditiis doloribus fuga aperiam, iusto, quo voluptatum consectetur. Amet pariatur odio debitis est earum asperiores"
+  }
+]

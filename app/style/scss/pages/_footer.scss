@@ -1,0 +1,113 @@
+@use '../variables' as *;
+
+.footer {
+  background: var(--background-dark);
+  color: var(--text-light);
+  padding: var(--spacing-xl) 0;
+
+  @media screen and (max-width: 768px) {
+    padding: var(--spacing-large) 0;
+  }
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--spacing-medium);
+  margin-bottom: var(--spacing-medium);
+
+  @media screen and (max-width: 768px) {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    gap: var(--spacing-small);
+  }
+}
+
+.footer-logo {
+  width: 20%;
+  margin: var(--spacing-small) 0;
+
+  @media screen and (max-width: 768px) {
+    width: 100%;
+  }
+}
+
+.footer-icon-block {
+  padding: var(--spacing-medium) 0;
+  gap: var(--spacing-small);
+
+  @media screen and (max-width: 768px) {
+    padding-top: var(--spacing-large);
+    justify-content: center;
+  }
+}
+
+.footer-icon {
+  width: var(--icon-size-small);
+  height: var(--icon-size-small);
+
+  @media screen and (max-width: 768px) {
+    width: var(--icon-size-large);
+    height: var(--icon-size-large);
+  }
+}
+
+.footer-logo {
+  font-weight: bold;
+  color: var(--primary-color);
+  text-decoration: none;
+  font-size: var(--font-size-h2);
+  padding-bottom: var(--spacing-medium);
+}
+
+.footer-description-block p {
+  padding: var(--spacing-medium) 0;
+}
+
+.footer-tell {
+  display: block;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--text-light);
+  padding: var(--spacing-small) 0;
+}
+
+.social-icons {
+  display: flex;
+  gap: var(--spacing-small);
+}
+
+.footer-links {
+  @media screen and (max-width: 768px) {
+    width: 30%;
+    margin-bottom: var(--spacing-medium);
+  }
+}
+
+.footer-links h4 {
+  margin-bottom: var(--spacing-small);
+}
+
+.footer-links ul {
+  list-style: none;
+}
+
+.footer-links a {
+  color: var(--footer-link-color);
+  text-decoration: none;
+  line-height: 1.8;
+}
+
+.footer-bottom {
+  text-align: center;
+  font-size: 1.2rem;
+  color: var(--text-light);
+  padding-top: var(--spacing-medium);
+  border-top: 1px solid var(--text-light);
+}
+
+.footer-bottom p {
+  padding: 1rem 0;
+}

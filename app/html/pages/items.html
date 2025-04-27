@@ -1,0 +1,26 @@
+<div class="items-container">
+  <h2>All Foxes</h2>
+  <div class="items container">
+    <aside class="basket-sidebar">
+      <div class="filter-section">
+        <input type="text" id="search-input" placeholder="Search by name" />
+      </div>
+
+      <div class="filter-section">
+        <h3>Topic</h3>
+        <button class="filter-button" data-filter="">All</button>
+        <button class="filter-button" data-filter="Forest">Forest</button>
+        <button class="filter-button" data-filter="Foxkid">Fox kids</button>
+        <button class="filter-button" data-filter="Other">Other</button>
+      </div>
+
+      <div class="filter-section">
+        <h3>Price</h3>
+        <input class="range-input" type="range" id="price-filter" min="0" max="100" value="200" step="10" />
+        <p>Value: $<span id="price-value">100</span></p>
+      </div>
+    </aside>
+
+    <section class="items-grid" id="items-items"></section>
+  </div>
+</div>
