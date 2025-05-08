@@ -8,7 +8,7 @@
 
 ## 🖼️ Screenshot
 <div align="center">
-  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-1.png" alt="View click" height="420" width="auto">
+  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-1.png" alt="View click" height="auto" width="100%">
   <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-2.png" alt="View click" height="420" width="auto">
   <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-3.png" alt="View click" height="420" width="auto">
   <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-4.png" alt="View click" height="420" width="auto">
@@ -32,8 +32,12 @@
 ## 🚀 How to Run
 
 1. Open the [GitHub Pages Deployment](https://denis793.github.io/Market/)
+
 2. To run locally:
    ```bash
    git clone https://github.com/Denis793/Market.git
    cd Market
    open index.html manually
+
+
+
