@@ -9,9 +9,9 @@
 ## 🖼️ Screenshot
 <div align="center">
   <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-1.png" alt="View click" height="auto" width="100%">
-  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-2.png" alt="View click" height="420" width="auto">
-  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-3.png" alt="View click" height="420" width="auto">
-  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-4.png" alt="View click" height="420" width="auto">
+  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-2.png" alt="View click" height="auto" width="100%">
+  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-3.png" alt="View click" height="auto" width="100%">
+  <img src="https://github.com/Denis793/Market/blob/main/app/img/screens/screen-4.png" alt="View click" height="auto" width="100%">
 </div>
 
 ## 📦 Functionality
