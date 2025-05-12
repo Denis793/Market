@@ -47,7 +47,6 @@ export function updateBasketCount() {
   const count = basket.reduce((total, item) => total + item.quantity, 0);
   const basketCountElement = document.getElementById('basket-count');
 
-  // Якщо елемент існує, оновлюємо його
   if (basketCountElement) {
     basketCountElement.textContent = count;
   } else {
@@ -55,7 +54,6 @@ export function updateBasketCount() {
   }
 }
 
-// Оновлюємо лічильник після кожної зміни кошика та при завантаженні сторінки
 document.addEventListener('DOMContentLoaded', () => {
   const savedCount = localStorage.getItem('basketCount');
   const basketCountElement = document.getElementById('basket-count');
