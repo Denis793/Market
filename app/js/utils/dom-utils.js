@@ -1,4 +1,3 @@
-// Клас для керування хедером
 export class HeaderManager {
   constructor(headerId = 'header') {
     this.header = document.getElementById(headerId);
@@ -30,7 +29,6 @@ export function styleMainHeadings() {
   }
 }
 
-// Створює елемент з HTML-рядка
 export function createElement(htmlString) {
   const template = document.createElement('template');
   template.innerHTML = htmlString.trim();
